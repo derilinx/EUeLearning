@@ -27,7 +27,7 @@
         "_layout":"left",
         "title":"Welcome",
         "displayTitle":"Welcome",
-        "body":"<p>Welcome to the European Data Portal e-learning programme. This programme has been designed to enable you to discover what open data is and how it is changing the lives of everyone on our planet.</p><p><em>Scroll down to discover each of the available lessons</em></p>",
+        "body":"<p>Welcome to the Irish National Open Data Initiative e-learning programme. This programme has been designed to enable you to discover what open data is and how it is changing the lives of everyone on our planet. This programme is based on the e-learning programme devised by the <a href=\"https://www.europeandataportal.eu/\">European Data Portal</a>.</p><p><em>Scroll down to discover each of the available lessons</em></p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": false
